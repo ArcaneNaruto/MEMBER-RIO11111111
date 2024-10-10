@@ -1,0 +1,9 @@
+{
+    "Activity": "حالة البوت",
+    "ActivityType": "WATCHING",
+    "mainGuildID": "id السيرفر",
+    "bot id": "id بوتك الستوك",
+    "prefix":"$",
+    "registerGlobal": true,
+    "ownerID": "id حسابك"
+}
